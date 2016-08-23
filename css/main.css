@@ -1,0 +1,64 @@
+* {
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+	font-family: monospace;
+}
+
+.avatar {
+	width: 0%;
+	height: 100%;
+	float: left;
+}
+
+.contact {
+	font-size: 18px;
+	padding-top: 3em;
+	width: 100%;
+	float: left;
+	height: calc(100% - 3em);
+	text-align: center;
+	background-color: black;
+	color: lime;
+}
+
+.upper_panel {
+	height: 180px;
+	width: 100%;
+	margin-bottom: 10px;
+}
+
+.skill {
+	width: calc(100% - 16px);
+	height: 50vh;
+	//border: 3px solid lime;
+	margin-bottom: 10px;
+	margin-left: 5px;
+	margin-right: 5px;
+	background: linear-gradient(90deg, #00FF00 50%, #000000 50%);
+}
+
+.skillName {
+	width: 50%;
+	text-align: center;
+	position: relative;
+	font-size: 4em;
+	top: calc(50% - 0.5em);
+	float: left;
+}
+
+.action {
+	color: lime;
+}
+
+.actions {
+	width: calc(50% - 20px);
+	height: calc(100% - 10px);
+	float: left;
+	position: relative;
+	top: 10px;
+	left: 10px;
+}
+
+.action {
+	
+}
