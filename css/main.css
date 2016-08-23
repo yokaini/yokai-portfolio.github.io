@@ -39,6 +39,8 @@ a {
 	margin-left: 5px;
 	margin-right: 5px;
 	background: linear-gradient(90deg, #00FF00 50%, #000000 50%);
+	position: relative;
+	left: 3px;
 }
 
 .skillName {
